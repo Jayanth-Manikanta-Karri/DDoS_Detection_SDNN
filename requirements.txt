@@ -1,0 +1,4 @@
+ryu==4.34
+scapy==2.4.5
+tensorflow==2.7.0
+numpy==1.21.5
